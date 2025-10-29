@@ -20,7 +20,7 @@ const Landing = () => {
         <div className="max-w-container mx-auto px-4 pt-48 pb-24 relative z-10">
           <div className="text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6">
-              Welcome to TicketFlow
+              Welcome to Ticketr
             </h1>
             <p className="text-lg md:text-lg mb-8 text-indigo-100 max-w-2xl mx-auto">
               Streamline your ticket management with our powerful, intuitive platform. 
@@ -40,7 +40,7 @@ const Landing = () => {
       {/* Features Section */}
       <section className="max-w-container mx-auto px-4 py-16">
         <h2 className="text-4xl font-bold text-center mb-12 text-gray-800 dark:text-gray-100">
-          Why Choose TicketFlow?
+          Why Choose Ticketr?
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -103,7 +103,7 @@ const Landing = () => {
             Ready to Get Started?
           </h2>
           <p className="text-lg mb-8 text-indigo-100">
-            Join thousands of teams already using TicketFlow to streamline their workflow.
+            Join thousands of teams already using Ticketr to streamline their workflow.
           </p>
           <Link 
             to="/auth/signup"

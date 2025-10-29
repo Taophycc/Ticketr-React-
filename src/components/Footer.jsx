@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4 text-primary dark:text-indigo-400">
-              <a href="/">TicketFlow</a>
+              <a href="/">Ticketr</a>
             </h3>
             <p>
               Streamline your ticket management with our powerful and intuitive
@@ -50,8 +50,7 @@ const Footer = () => {
               Contact
             </h4>
             <p>
-              Email: support@ticketflow.com
-              <br />
+                                Email: support@ticketr.com              <br />
               Phone: +1 (555) 123-4567
             </p>
           </div>
@@ -59,7 +58,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-200 dark:border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-center md:text-left mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} TicketFlow. All rights reserved.
+            &copy; {new Date().getFullYear()} Ticketr. All rights reserved.
           </p>
           <div className="flex items-center space-x-4">
             <a

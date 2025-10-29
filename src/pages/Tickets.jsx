@@ -135,7 +135,7 @@ const Tickets = () => {
         <div className="max-w-container mx-auto px-4 py-3">
           <div className="flex justify-between items-center">
             <Link to="/" className="text-lg md:text-2xl font-bold text-primary dark:text-indigo-400 hover:text-primary-light transition">
-              TicketFlow
+              Ticketr
             </Link>
             <div className="flex items-center gap-4">
               <span className="text-gray-600 dark:text-gray-300">Welcome, <strong>{user?.name || 'User'}</strong></span>

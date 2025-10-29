@@ -1,4 +1,4 @@
-# TicketFlow - React Implementation
+# Ticketr - React Implementation
 
 A comprehensive ticket management web application built with React, Vite, and Tailwind CSS.
 

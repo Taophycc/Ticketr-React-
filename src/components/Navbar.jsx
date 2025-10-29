@@ -24,7 +24,7 @@ const Navbar = () => {
       <div className="max-w-container mx-auto flex justify-between items-center">
         {/* Logo */}
         <Link to="/" className={`text-2xl font-bold ${linkColor}`}>
-          TicketFlow
+          Ticketr
         </Link>
 
         {/* Nav Links & Toggle (Desktop) */}

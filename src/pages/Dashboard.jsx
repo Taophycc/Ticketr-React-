@@ -44,7 +44,7 @@ const Dashboard = () => {
               to="/"
               className="md:text-2xl text-lg font-bold text-primary dark:text-indigo-400 transition"
             >
-              TicketFlow
+              Ticketr
             </Link>
             <div className="flex items-center gap-4">
               <span className="text-gray-500 dark:text-gray-300">

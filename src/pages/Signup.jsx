@@ -56,13 +56,13 @@ const Signup = () => {
         <div className="max-w-md w-full">
           <div className="text-center mb-8">
             <Link to="/" className="text-3xl font-bold text-primary dark:text-indigo-400 hover:text-primary-light dark:hover:text-indigo-300 transition">
-              TicketFlow
+              Ticketr
             </Link>
             <h2 className="mt-6 text-3xl font-bold text-gray-900 dark:text-white">
               Create Your Account
             </h2>
             <p className="mt-2 text-gray-600 dark:text-gray-300">
-              Join TicketFlow and start managing tickets efficiently
+              Join Ticketr and start managing tickets efficiently
             </p>
           </div>
 
